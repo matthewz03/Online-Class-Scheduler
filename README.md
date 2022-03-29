@@ -29,7 +29,7 @@ Both time fields must be filled out using 24 hour time, in the format "HH:MM:SS"
 
 The emergency stop time works similarly to the start time and logs out of schoology. This is a failsafe that only happens if other logout conditions fail to be met. I recommend listing emergency stop time around five minutes after class is scheduled to end.
 
-# of Thanks yous in chat/students that leave:
+Number of Thanks yous in chat/students that leave:
 Wakeup is designed to automatically log out when two conditions are met—(A) when a specified number of "thank you" messages are posted in chat and (B) when a specified number of other attendees log out.
 
 If these numbers are not specified, Wakeup will not log you out of class until the emergency stop time is reached. I recommend 5 thank yous and 8 people. This means that you will be logged out if Wakeup reads 5 thank yous AND 8 people leave the session.
@@ -56,8 +56,8 @@ Link 2: https://lms.fcps.edu/apps/1234567890/run/course/9876543210
 Thank you message: Thank you!
 Start time: 08:18:00
 End time: 09:45:00
-# of students that leave: 8
-# of thanks before leaving: 5
+Number of students that leave: 8
+Number of thanks before leaving: 5
 
 Save Info/Start program:
 
